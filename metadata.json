@@ -1,0 +1,5 @@
+{
+  "name": "AI DTP Operator: DTP-Assist v1",
+  "description": "An AI-powered web application to automate the Desktop Publishing (DTP) workflow, from manuscript creation and editing to final output generation, based on user instructions.",
+  "requestFramePermissions": []
+}
